@@ -1,5 +1,5 @@
 package DSA.Recursion;
-
+// its a recursion program where the number decreases by 5 to 1 by using call of recursion.
 public class Recursion5To1 {
 
     public static void printNum(int n) {
